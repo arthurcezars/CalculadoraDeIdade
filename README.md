@@ -7,3 +7,5 @@ Uma calculadora que ao informar o ano de nascimento retorna  quantos anos, meses
 * HTML
 * CSS
 * Javascript
+  
+!["Imagem da calculadora"]("./assets/img/Calculadora.png")
