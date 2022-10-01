@@ -8,4 +8,6 @@ Uma calculadora que ao informar o ano de nascimento retorna  quantos anos, meses
 * CSS
 * Javascript
   
-!["Imagem da calculadora"]("assets/img/Calculadora.png")
+<div allign=center>
+    <img src="https://github.com/arthurcezars/CalculadoraDeIdade/blob/2a72dff15994c3e3646b4e392d16082116ec5208/assets/img/Calculadora.png" width="700px">
+</div>
